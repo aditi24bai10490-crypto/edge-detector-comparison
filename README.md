@@ -17,6 +17,7 @@ Gaussians (DoG).
 
 ```text
 edge-detector-comparison/
+├── .gitignore
 ├── edge_detectors.py
 ├── main.py
 ├── requirements.txt
